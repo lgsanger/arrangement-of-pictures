@@ -5,6 +5,16 @@ img {
   justify-content: space-around;
   align-items: center;
 }
+#title{
+  padding: 10px;
+    text-align: center;
+    height:15%;
+}
+#subheading{
+  padding: 10px;
+    text-align: center;
+    height: 5px;%;
+}
 
 #img-0 {
 
